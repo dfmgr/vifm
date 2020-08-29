@@ -94,7 +94,7 @@ show_optvars "$@"
 
 # end with a space
 
-APP="$APPNAME sxiv imagemagick "
+APP="$APPNAME sxiv imagemagick zathura "
 PERL=""
 PYTH=""
 PIPS=""
