@@ -97,7 +97,7 @@ show_optvars "$@"
 APP="$APPNAME sxiv imagemagick zathura "
 PERL=""
 PYTH=""
-PIPS=""
+PIPS="ueberzug "
 CPAN=""
 GEMS=""
 
