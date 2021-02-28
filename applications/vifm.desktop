@@ -2,3 +2,9 @@
 Type=Application
 Name=vifm
 Exec=myterminal -e vifm %u
+Icon=system-file-manager
+Comment=
+Path=
+Terminal=false
+StartupNotify=false
+
