@@ -5,7 +5,7 @@ vifm is a file manager with curses interface
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/vifm/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/vifm/raw/main/install.sh)"
 ```
 
 Manual install:
