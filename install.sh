@@ -175,7 +175,7 @@ PERL_PACKAGES=""
 NODEJS=""
 PERL_CPAN=""
 RUBY_GEMS=""
-PYTHON_PIP="ueberzug"
+PYTHON_PIP=""
 PHP_COMPOSER=""
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Run custom actions
